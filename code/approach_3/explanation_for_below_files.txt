@@ -1,0 +1,9 @@
+Here I tried to fine-tune the Tesseract OCR model. But couldn't complete fine tuning process.
+
+Below are some of file scripts and codes that are used in fine tuning process.
+
+-- generate_box_files.bat file - To generate .box type files for each input image
+
+-- generate_train_files.bat file - To generate .tr files for each input image (This is where I got terminated)
+
+-- generate_txt_files_for_input_images.py file - To generate .txt files for each image

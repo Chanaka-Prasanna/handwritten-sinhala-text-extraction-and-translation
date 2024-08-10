@@ -1,0 +1,3 @@
+Here I tried to fine-tune the Tesseract OCR model. But couldn't complete fine tuning process.
+
+Below are some of file types that were generated in fine tuning process.
